@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 
 
 <!-- Intro part -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey+there!+It's+viswas!;I'm+a+Full+Stack+Developer...;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey+there!+It's+viswas!;I'm+a+Devops+Engineer...;)](https://git.io/typing-svg)
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
