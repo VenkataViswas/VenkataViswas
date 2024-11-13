@@ -13,42 +13,41 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# 👋 Hello, I'm **Venkata Viswas**
 
-# Hi there, I'm Venkata Viswas! 👋
-
-Welcome to my GitHub profile! I'm a passionate DevOps engineer with a strong foundation in web development. I'm dedicated to advancing my skills in emerging DevOps tools and technologies and building impactful solutions in the field. Here, you'll find a range of my projects covering topics in DevOps, web development, and beyond.
-
-## 🚀 About Me
-
-- 💻 DevOps Engineer with a keen interest in **automation, CI/CD, and cloud computing**.
-- 🌐 Experienced in the **MERN stack** and integrating **AI/ML models** into web applications.
-- 📚 Constant learner, always exploring **new technologies and best practices** to create efficient and scalable systems.
-- 🌱 Currently deepening my knowledge in **AWS, Docker, and Kubernetes**.
-
-## 🛠 Skills & Technologies
-
-- **Languages**: JavaScript, Python, Java, C/C++, SQL
-- **DevOps Tools**: Git, Docker, Kubernetes, Jenkins, CI/CD Pipelines
-- **Frameworks/Libraries**: Express, React, Node.js, Spring Boot
-- **Databases**: MongoDB, PostgreSQL, MySQL
-- **Cloud**: AWS, Azure
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VenkataViswas&show_icons=true&theme=radical)
-
-## 📫 Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/VenkataViswas)
-- [GitHub](https://github.com/VenkataViswas)
-
-## 📂 My Repositories
-
-Check out my repositories to see my work, including projects on **web development**, **DevOps**, and **educational platforms**. I’m always open to collaboration and learning opportunities.
+Welcome to my GitHub profile! I'm a **DevOps Engineer** with a strong background in **web development** and a passion for building scalable, efficient solutions. My focus is on mastering **emerging DevOps tools and technologies** to make impactful contributions in the field.
 
 ---
 
-Feel free to reach out or connect with me. Thanks for stopping by!
+### 🚀 **About Me**
+
+- 🌍 DevOps Engineer skilled in **automation, CI/CD, and cloud computing**
+- 🌱 Constantly exploring new technologies to expand my knowledge base
+- 💻 Proficient in the **MERN stack** and experienced in integrating **AI/ML models** into applications
+- 🎯 Currently diving deeper into **AWS, Docker, and Kubernetes**
 
 ---
 
+### 🛠 **Technical Skills**
+
+| **Languages**            | **DevOps Tools**           | **Frameworks/Libraries** | **Databases**           | **Cloud** |
+|--------------------------|----------------------------|--------------------------|--------------------------|-----------|
+| JavaScript, Python, Java | Git, Docker, Kubernetes    | Express, React, Node.js  | MongoDB, PostgreSQL, SQL | AWS, Azure|
+| C/C++, SQL               | Jenkins, CI/CD Pipelines   | Spring Boot              | MySQL                    |           |
+
+---
+
+### 📫 **Connect with Me**
+
+- 🌐 **LinkedIn**: [Connect with me on LinkedIn](https://www.linkedin.com/in/VenkataViswas)
+- 🌐 **GitHub**: [Explore my repositories](https://github.com/VenkataViswas)
+
+---
+
+### 📂 **Highlighted Projects**
+
+Take a look at my repositories to explore projects related to **web development**, **DevOps**, **educational platforms**, and more. I'm always open to collaboration and knowledge sharing!
+
+---
+
+Thanks for visiting! Feel free to reach out, connect, and explore my work. 😊
