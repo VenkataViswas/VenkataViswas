@@ -37,10 +37,8 @@ Welcome to my GitHub profile! I'm a passionate DevOps engineer with a strong fou
 
 ## 📫 Connect with Me
 
-- [**LinkedIn**](https://www.linkedin.com/in/VenkataViswas)  
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/VenkataViswas)
 
-- [**GitHub**](https://github.com/VenkataViswas)  
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VenkataViswas)
 
 
