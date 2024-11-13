@@ -24,22 +24,34 @@ Welcome to my GitHub profile! I'm a passionate DevOps engineer with a strong fou
 - 📚 Constant learner, always exploring **new technologies and best practices** to create efficient and scalable systems.
 - 🌱 Currently deepening my knowledge in **AWS, Docker, and Kubernetes**.
 
-## 🛠 **Skills & Technologies**
 
 ## 🛠 **Skills & Technologies**
 
 - **Languages**: JavaScript, Python, Java, C++, SQL
-- **DevOps Tools**:
-  - **Configuration Management**: Ansible
-  - **CI/CD Tools**: Jenkins, GitHub Actions, ArgoCD
-  - **Version Control**: Git, GitHub
-  - **Containerization & Orchestration**: Docker, Kubernetes
-- **Frameworks/Libraries**: Express, React, Node.js
-- **Operating Systems**: Linux (Ubuntu), Windows
-- **Databases**: MongoDB, PostgreSQL, MySQL
-- **Cloud Platforms**: AWS, Azure
-- **Development Tools**: VS Code
 
+- **DevOps Tools**:
+  - **Configuration Management**: 
+    - Ansible
+  - **CI/CD Tools**: 
+    - Jenkins, GitHub Actions, ArgoCD
+  - **Version Control**: 
+    - Git, GitHub
+  - **Containerization & Orchestration**: 
+    - Docker, Kubernetes
+
+- **Frameworks & Libraries**: Express, React, Node.js
+
+- **Operating Systems**: 
+  - Linux (Ubuntu), Windows
+
+- **Databases**: 
+  - MongoDB, PostgreSQL, MySQL
+
+- **Cloud Platforms**: 
+  - AWS, Azure
+
+- **Development Tools**: 
+  - VS Code
 
 
 
