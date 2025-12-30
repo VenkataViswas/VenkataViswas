@@ -33,6 +33,32 @@ My learning journey has taught me to **think critically**, **solve problems effi
 
 > **Machine Learning** | **Natural Language Processing (NLP)** | **Deep Learning** | **Python** | **TensorFlow** | **Scikit-Learn** | **Flask** | **MLOps** | **Model Deployment** | **Docker** | **Problem Solving**
 
+
+---
+
+### 🌟 🚀 Featured Projects
+
+Here are some highlighted projects from my GitHub:
+
+#### 🔹 **Intern-Sight**
+A project focused on helping students or early professionals prepare for internships and improve practical skills through guided resources and tools. :contentReference[oaicite:1]{index=1}
+
+#### 🔹 **From Raw Data to Deployment — An End-to-End ML Project**
+A complete machine learning pipeline that walks from **raw dataset analysis**, **model training**, **evaluation**, all the way to **API deployment** and real-world application. :contentReference[oaicite:2]{index=2}
+
+#### 🔹 **Spam-Ham Classification using NLTK**
+A natural language processing based classifier built using **NLTK** to distinguish spam messages from legitimate ones — demonstrating text preprocessing, feature extraction, and classification accuracy. :contentReference[oaicite:3]{index=3}
+
+#### 🔹 **Customer Churn Prediction using ANN**
+An Artificial Neural Network model focused on **predicting customer churn** using historical customer behavior — showcasing deep learning and business problem framing. :contentReference[oaicite:4]{index=4}
+
+#### 🔹 **Algeria FireWatch – Real-time Risk Estimator**
+A project that analyzes environmental or geographic data to **estimate fire risk** in real-time — illustrating use of ML in **geospatial risk assessment**. :contentReference[oaicite:5]{index=5}
+
+#### 🔹 **Sentiment Analysis using Custom Avg Word2Vec and Logistic Regression**
+An NLP model that combines **custom Word2Vec embeddings** with **Logistic Regression** for robust sentiment prediction on text datasets. :contentReference[oaicite:6]{index=6}
+
+
 ---
 
 ### 🌟 Motto
