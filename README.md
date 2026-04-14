@@ -1,14 +1,14 @@
-# 👋 Hi there, I'm **Tumbali Venkata Viswas** — an Aspiring **Machine Learning Engineer**
+# 👋 Hi there, I'm **Tumbali Venkata Viswas** — a **Machine Learning Engineer**
 
 ---
 
-### 🚀 Passionate about Building Real-World AI Solutions
+### 🚀 Passionate about Building Scalable AI Systems
 
-I am an aspiring **Machine Learning Engineer** specializing in **Machine Learning, Deep Learning, NLP, and Generative AI** with strong hands-on experience in **building production-ready ML systems**.
+I am a **Data Science postgraduate student** with strong experience in **Machine Learning, Deep Learning, NLP, and Generative AI**, focused on building **production-ready AI systems**.
 
-I have worked extensively on **end-to-end machine learning pipelines**, including **data ingestion, preprocessing, model training, evaluation, and deployment**. I enjoy solving real-world problems using **AI-driven, scalable, and reliable solutions**.
+I have hands-on experience in **end-to-end ML pipelines**, including **data ingestion, preprocessing, model training, evaluation, and deployment**. I enjoy solving real-world problems using **scalable, efficient, and data-driven solutions**.
 
-My background includes working with **LLM-powered systems, Retrieval-Augmented Generation (RAG), semantic search, model deployment, CI/CD, and cloud platforms like AWS**. I continuously strive to build systems that move beyond notebooks into **real-world applications**.
+My expertise includes working with **LLM-powered systems, Retrieval-Augmented Generation (RAG), semantic search, real-time computer vision, CI/CD pipelines, Docker, and AWS deployment**. I aim to build systems that go beyond experimentation into **real-world impact**.
 
 ---
 
@@ -17,11 +17,12 @@ My background includes working with **LLM-powered systems, Retrieval-Augmented G
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![NLTK](https://img.shields.io/badge/-NLTK-0F52BA?style=flat-square&logoColor=white)
-![Gensim](https://img.shields.io/badge/-Gensim-2E8B57?style=flat-square&logoColor=white)
+![NLTK](https://img.shields.io/badge/-NLTK-0F52BA?style=flat-square)
+![Gensim](https://img.shields.io/badge/-Gensim-2E8B57?style=flat-square)
 ![LangChain](https://img.shields.io/badge/-LangChain-121212?style=flat-square)
 ![FAISS](https://img.shields.io/badge/-FAISS-0B5FFF?style=flat-square)
 ![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21F?style=flat-square&logo=huggingface&logoColor=black)
+![Pinecone](https://img.shields.io/badge/-Pinecone-008080?style=flat-square)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
@@ -33,47 +34,56 @@ My background includes working with **LLM-powered systems, Retrieval-Augmented G
 
 ### 🧠 Skills
 
-> **Machine Learning** | **Deep Learning** | **Natural Language Processing (NLP)** | **Generative AI** | **Retrieval-Augmented Generation (RAG)** | **Semantic Search** | **Model Training & Evaluation** | **Feature Engineering** | **MLOps** | **API Development** | **Docker** | **CI/CD** | **AWS Deployment** | **Data Analysis & EDA**
+> **Machine Learning** | **Deep Learning** | **Natural Language Processing (NLP)** | **Generative AI** | **Retrieval-Augmented Generation (RAG)** | **Semantic Search** | **Computer Vision** | **Model Training & Evaluation** | **Feature Engineering** | **MLOps** | **API Development** | **Docker** | **CI/CD** | **AWS Deployment**
 
 ---
 
 ### 🌟 🚀 Featured Projects
 
-#### 🔹 **Retrieval-Augmented Generation (RAG) System**
-An end-to-end **LLM-powered RAG pipeline** that ingests **PDF, TXT, CSV, Excel, Word, and JSON documents** and answers user queries using **semantic search and vector retrieval**.  
-Built using **Sentence Transformers (all-MiniLM-L6-v2), FAISS, LangChain, and Groq LLMs (gemma2-9b-it)** with **persistent vector storage** for fast and efficient querying.
-
----
-
-#### 🔹 **Sentiment Analysis using Custom Avg Word2Vec + Logistic Regression**
-Built a full **NLP pipeline** using a **custom-trained Word2Vec model (Gensim)** and **Logistic Regression**.  
-Implemented **tokenization, lowercasing, stopword removal**, trained embeddings from scratch, and achieved **81.75% accuracy** with balanced precision and recall.
+#### 🔹 **LangChain RAG Assistant**
+- Developed an end-to-end **Retrieval-Augmented Generation (RAG) system** for context-aware question answering over documentation  
+- Built a **data ingestion pipeline using Tavily** to crawl and extract data, followed by text chunking and embedding generation using **Sentence Transformers (all-MiniLM-L6-v2)**  
+- Integrated **Pinecone vector database** for fast semantic similarity search and retrieval of top-k relevant documents  
+- Used **Google Gemini (2.5 Flash)** to generate answers based on retrieved context with source references  
+- Designed an **interactive Streamlit UI** for real-time conversational querying  
 
 ---
 
 #### 🔹 **From Raw Data to Deployment — End-to-End ML Project**
-A complete **ML production pipeline** covering **data ingestion, cleaning, EDA, feature engineering, model training, evaluation, logging, and CI/CD**.  
-Implemented **GitHub Actions with AWS EC2 runners**, making it **cloud-ready and scalable**.
+- Designed and implemented a **modular ML pipeline** covering data ingestion, preprocessing, model training, and inference  
+- Implemented **data transformation and model pipelines using Scikit-learn (ColumnTransformer, Pipeline)** ensuring consistency across training and inference  
+- Developed **automated model evaluation and selection** using performance metrics  
+- Built **CI/CD pipelines using GitHub Actions** for automated testing and integration  
+- Containerized application using **Docker** and deployed via **AWS ECR & EC2**  
+- Enabled **continuous deployment using self-hosted runners**  
 
 ---
 
-#### 🔹 **Real Estate Price Prediction Web Application**
-A **Flask-based ML web app** that predicts house prices using **regression models** trained on historical housing data.  
-Deployed on **AWS EC2**, providing a **real-time prediction API** connected to a **responsive web interface**.
+#### 🔹 **Pedestrian Detection using YOLOv8**
+- Developed a real-time **pedestrian detection system using YOLOv8**  
+- Built a **data preprocessing and conversion pipeline** to transform datasets into YOLO format  
+- Trained model for **50 epochs**, achieving **0.941 mAP@50 and 0.732 mAP@50-95**  
+- Compared performance with **Faster R-CNN**, improving inference speed and efficiency  
+- Optimized model for **real-time inference (12.5 ms latency, ~80 FPS)**  
+- Implemented **video-based inference pipeline for live detection**  
 
 ---
 
-#### 🔹 **Restaurant Website — MERN Stack**
-A **full-stack food ordering platform** with **secure login, order history, ratings, and admin dashboard**, built using **MongoDB, Express, React, and Node.js**.
+#### 🔹 **Sentiment Analysis using Word2Vec + Logistic Regression**
+- Built a custom **NLP pipeline** using **Word2Vec embeddings (Gensim)** and Logistic Regression  
+- Applied preprocessing techniques including **tokenization, normalization, and stopword removal**  
+- Trained embeddings from scratch and evaluated model performance  
+- Achieved **~81% accuracy with balanced precision and recall**  
 
 ---
 
 ### 🏆 Experience
 
 **Power BI Intern — Dosoft Technologies (May 2024 – June 2024)**  
+- Performed **data cleaning and transformation using Power Query**  
 - Designed **interactive dashboards and reports**  
-- Analyzed **large datasets** to extract actionable business insights  
-- Presented data-driven findings to stakeholders  
+- Analyzed **SAP datasets for business insights**  
+- Published reports on **Power BI Service**  
 
 ---
 
@@ -84,9 +94,18 @@ A **full-stack food ordering platform** with **secure login, order history, rati
 
 ---
 
+### 🏆 Achievements & Certifications
+
+- 🏅 Competed in the Internal Smart India Hackathon (SIH) and achieved 15th place among participating teams.
+- 📜 Infosys Springboard — Deep Learning for Developers, Prompt Engineering  
+- 📜 365 Data Science — Introduction to AI, Generative AI  
+- ☁️ AWS Workshop & Hackathon Participant  
+
+---
+
 ### 🌟 Motto
 
-> 🚀 **Always learning, always building production-ready AI systems.**
+> 🚀 **Build AI systems that scale, not just models that run.**
 
 ---
 
