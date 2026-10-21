@@ -40,6 +40,15 @@ My expertise includes working with **LLM-powered systems, Retrieval-Augmented Ge
 
 ### 🌟 🚀 Featured Projects
 
+**CorrectRAG: Adaptive RAG System with Active Document Grading & Web Fallback**
+
+- Architected an agentic Retrieval-Augmented Generation (RAG) pipeline using **LangGraph** and **LangChain** to reduce retrieval blind spots and irrelevant context injection.
+- Engineered a self-reflective document grader using **Google Gemini (gemini-2.5-flash)** and **Pydantic structured outputs** to dynamically filter irrelevant document chunks before generation.
+- Integrated an automated web search fallback using the **Tavily API** to bridge local knowledge gaps with real-time web information.
+- Implemented a persistent vector store using **ChromaDB** and local **Hugging Face embeddings (all-MiniLM-L6-v2)** for cost-effective document embedding and retrieval.
+- Configured stateful conditional routing in **LangGraph** to control retrieval, document grading, web search fallback, and answer generation.
+
+
 #### 🔹 **LangChain RAG Assistant**
 - Developed an end-to-end **Retrieval-Augmented Generation (RAG) system** for context-aware question answering over documentation  
 - Built a **data ingestion pipeline using Tavily** to crawl and extract data, followed by text chunking and embedding generation using **Sentence Transformers (all-MiniLM-L6-v2)**  
