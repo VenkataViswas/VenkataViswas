@@ -40,13 +40,14 @@ My expertise includes working with **LLM-powered systems, Retrieval-Augmented Ge
 
 ### 🌟 🚀 Featured Projects
 
-**CorrectRAG: Adaptive RAG System with Active Document Grading & Web Fallback**
 
-- Architected an agentic Retrieval-Augmented Generation (RAG) pipeline using **LangGraph** and **LangChain** to reduce retrieval blind spots and irrelevant context injection.
-- Engineered a self-reflective document grader using **Google Gemini (gemini-2.5-flash)** and **Pydantic structured outputs** to dynamically filter irrelevant document chunks before generation.
-- Integrated an automated web search fallback using the **Tavily API** to bridge local knowledge gaps with real-time web information.
-- Implemented a persistent vector store using **ChromaDB** and local **Hugging Face embeddings (all-MiniLM-L6-v2)** for cost-effective document embedding and retrieval.
-- Configured stateful conditional routing in **LangGraph** to control retrieval, document grading, web search fallback, and answer generation.
+### CorrectRAG: Agentic RAG with Self-Correction
+
+- Built an agentic Retrieval-Augmented Generation (RAG) system using **LangGraph** and **LangChain**, integrating Corrective RAG (CRAG) and Self-Reflective RAG (Self-RAG).
+- Implemented **LLM-based document relevance grading** with Google Gemini to filter irrelevant retrieval results before answer generation.
+- Integrated **Tavily Web Search** as a dynamic fallback when local ChromaDB retrieval returns insufficient or irrelevant context.
+- Developed self-correction loops with hallucination detection and answer relevance grading to regenerate unsupported responses and improve answer grounding.
+- Implemented persistent vector retrieval using **ChromaDB** and Hugging Face `all-MiniLM-L6-v2` embeddings, with LangSmith-ready tracing and Pytest-based validation.
 
 
 #### 🔹 **LangChain RAG Assistant**
