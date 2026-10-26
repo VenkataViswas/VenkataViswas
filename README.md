@@ -41,6 +41,14 @@ My expertise includes working with **LLM-powered systems, Retrieval-Augmented Ge
 ### 🌟 🚀 Featured Projects
 
 
+### NLQ Studio — Natural Language to SQL Analytics Engine
+- Built an agentic AI-powered analytics engine using LangGraph, Groq LLMs, and PostgreSQL to convert natural language questions into executable SQL queries.
+- Implemented dynamic database schema introspection to detect schema changes and maintain up-to-date metadata.
+- Developed SQL security guardrails using SQLGlot AST validation, read-only transactions, and least-privilege database access to prevent destructive queries and SQL injection risks.
+- Automated analytical response generation using Pydantic structured outputs, enabling KPI summaries, tabular results, and visualizations with natural-language explanations.
+- Developed an interactive Streamlit interface integrating SQL query inspection, database results, and automated charts for conversational business analytics.
+
+
 ### CorrectRAG: Agentic RAG with Self-Correction
 
 - Built an agentic Retrieval-Augmented Generation (RAG) system using **LangGraph** and **LangChain**, integrating Corrective RAG (CRAG) and Self-Reflective RAG (Self-RAG).
